@@ -13,3 +13,6 @@ def dividir(x,y):
 def hola():
     return "hola"
 
+def chao():
+    return "chao"
+
