@@ -11,7 +11,7 @@ def dividir(x,y):
     return x/y
 
 def hola():
-    return "hola"
+    return "chao"
 
 def chao():
     return "chao"
