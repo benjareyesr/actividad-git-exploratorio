@@ -17,4 +17,6 @@ def chao():
     return "hola"
 
 
+def test():
+    return "test"
 
