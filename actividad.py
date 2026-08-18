@@ -9,3 +9,9 @@ elif j1=="tijera" and j2=="papel":
     print("jugador 1 gana")
 elif j1=="papel" and j2=="piedra":
     print("jugador 1 gana")
+elif j1=="piedra" and j2=="papel":
+    print("jugador 2 gana")
+elif j1=="tijera" and j2=="piedra":
+    print("jugador 2 gana")
+elif j1=="papel" and j2=="tijera":
+    print("jugador 2 gana")
