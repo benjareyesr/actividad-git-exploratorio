@@ -14,7 +14,7 @@ def hola():
     return "hola"
 
 def chao():
-    return "adios"
+    return "chao"
 
 def test():
     return "prueba"
