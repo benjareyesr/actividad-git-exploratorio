@@ -11,8 +11,10 @@ def dividir(x,y):
     return x/y
 
 def hola():
-    return "chao"
+    return "hola"
 
 def chao():
-    return "chao"
+    return "hola"
+
+
 
